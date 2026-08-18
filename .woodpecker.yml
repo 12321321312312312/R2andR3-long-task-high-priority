@@ -1,0 +1,15 @@
+when:
+  event: manual
+
+priority: 9
+skip_clone: true
+
+labels:
+  demo: c3
+
+steps:
+  - name: waiting-demo
+    image: bash
+    commands:
+      - echo "C3 scheduler demo"
+      - sleep 30

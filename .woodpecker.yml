@@ -12,4 +12,4 @@ steps:
     image: bash
     commands:
       - echo "C3 scheduler demo"
-      - sleep 30
+      - sleep 100

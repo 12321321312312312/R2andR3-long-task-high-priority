@@ -1,7 +1,7 @@
 when:
   event: manual
 
-priority: 3
+priority: 9
 skip_clone: true
 
 labels:

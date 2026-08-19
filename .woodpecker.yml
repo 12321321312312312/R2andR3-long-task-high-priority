@@ -12,4 +12,5 @@ steps:
     image: bash
     commands:
       - echo "C3 scheduler demo"
+      - ech0 "自动化管线执行中"
       - sleep 100

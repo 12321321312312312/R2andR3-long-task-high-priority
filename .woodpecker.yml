@@ -13,4 +13,4 @@ steps:
     commands:
       - echo "C3 scheduler demo"
       - ech0 "长任务自动化管线执行中..."
-      - sleep 120
+      - sleep 1200
